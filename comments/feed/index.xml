@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Tikbra Muhammad	</title>
-	<atom:link href="https://tikbramuhammadd.github.io/tikbramuhammad/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tikbramuhammadd.github.io/tikbramuhammad</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Portfolio Website</description>
 	<lastBuildDate>Thu, 01 Aug 2024 14:42:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
